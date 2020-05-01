@@ -12,6 +12,14 @@ import androidx.appcompat.app.AppCompatActivity;
 import me.zaelani.ngasuh.model.UserModel;
 import me.zaelani.ngasuh.utils.Preferences;
 
+/**
+ * Irfan Zaelani
+ * 10117911
+ * 01 May 2020
+ *
+ * Halaman daftar aplikasi
+ *
+ */
 public class RegisterActivity extends AppCompatActivity {
 
     private TextView mLogin;

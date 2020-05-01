@@ -9,6 +9,14 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import me.zaelani.ngasuh.utils.Preferences;
 
+/**
+ * Irfan Zaelani
+ * 10117911
+ * 01 May 2020
+ *
+ * Halaman homepage aplikasi
+ *
+ */
 public class HomeActivity extends AppCompatActivity {
 
     @Override
